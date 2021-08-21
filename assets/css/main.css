@@ -3468,7 +3468,7 @@ input, select, textarea {
 			height: 100vh;
 			vertical-align: middle;
 			width: 1%;
-			background-image: url("../../images/Headshot_2020.jpg");
+			background-image: url("../../images/banner_homepage.jpg");
 		}
 
 		#banner:after {
@@ -3479,7 +3479,7 @@ input, select, textarea {
 			background-image: linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("../../images/Headshot_2020.jpg");;
 			
 			*/
-			background-image: url("../../images/Headshot_2020.jpg");
+			background-image: url("../../images/banner_homepage.jpg");
 			content: '';
 			display: block;
 			height: 100%;
