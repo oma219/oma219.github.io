@@ -3672,7 +3672,6 @@ input, select, textarea {
 			.spotlight {
 				background-attachment: scroll;
 				height: auto;
-				max-height: 10vh;
 			}
 
 				.spotlight .image.main {
