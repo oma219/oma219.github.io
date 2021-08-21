@@ -3468,6 +3468,8 @@ input, select, textarea {
 			height: 100vh;
 			vertical-align: middle;
 			width: 1%;
+			background-image: url("../../images/banner_homepage.jpg");
+			z-index: 1;
 		}
 
 		#banner:after {
