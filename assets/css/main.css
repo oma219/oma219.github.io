@@ -3268,6 +3268,7 @@ input, select, textarea {
 			-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 			transition: transform 1s ease, opacity 1s ease;
 			opacity: 1;
+			height: 100px;
 		}
 
 		.wrapper.fade-down.inactive > .container {
@@ -3288,6 +3289,7 @@ input, select, textarea {
 			-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 			transition: transform 1s ease, opacity 1s ease;
 			opacity: 1;
+			height: 100px;
 		}
 
 		.wrapper.fade-up.inactive > .container {
@@ -3670,6 +3672,7 @@ input, select, textarea {
 			.spotlight {
 				background-attachment: scroll;
 				height: auto;
+				max-height: 10vh;
 			}
 
 				.spotlight .image.main {

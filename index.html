@@ -21,12 +21,18 @@
 					<nav id="nav">
 						<ul>
 							<li><a href="index.html">Home</a></li>
+							<li><a href="about_me.html">About Me</a></li>
+							<li><a href="research.html">Research</a></li>
+							<li><a href="interests.html">Interests</a></li>
+
+							<!-- Shows how to create a sub-menu -->
+							<!-- 
 							<li>
-								<a href="#">Layouts</a>
+								<a href="#">Additional Pages</a>
 								<ul>
-									<li><a href="left-sidebar.html">Left Sidebar</a></li>
-									<li><a href="right-sidebar.html">Right Sidebar</a></li>
-									<li><a href="no-sidebar.html">No Sidebar</a></li>
+									<li><a href="about_me.html">About Me</a></li>
+									<li><a href="research.html">Research</a></li>
+									<li><a href="interests.html">Interests</a></li>
 									<li>
 										<a href="#">Submenu</a>
 										<ul>
@@ -35,11 +41,11 @@
 											<li><a href="#">Option 3</a></li>
 											<li><a href="#">Option 4</a></li>
 										</ul>
-									</li>
+									</li> 
 								</ul>
-							</li>
-							<li><a href="elements.html">Elements</a></li>
-							<li><a href="#" class="button primary">Sign Up</a></li>
+							</li> -->
+							<!-- <li><a href="elements.html">Elements</a></li> -->
+							<!-- <li><a href="#" class="button primary">Sign Up</a></li> -->
 						</ul>
 					</nav>
 				</header>
@@ -54,12 +60,27 @@
 						</header>
 						<span class="image"><img src="images/Headshot_2020.jpg" alt="" /></span>
 					</div>
-					<a href="#one" class="goto-next scrolly">Next</a>
+					<a href="#about_me" class="goto-next scrolly">Next</a>
 				</section>
 
+			<!-- About ME -->
+			<section id="about_me" class="wrapper style1 special fade-up">
+				<div class="container">
+					<div class="content">
+						<header>
+							<h2>About Me</h2>
+						</header>
+						<ul class="actions special">
+							<li><a href="about_me.html" class="button">Learn More</a></li>
+						</ul>
+					</div>
+				</div>
+			</section>
+
 			<!-- One -->
+			<!-- 
 				<section id="one" class="spotlight style1 bottom">
-					<span class="image fit main"><img src="images/pic02.jpg" alt="" /></span>
+					<span class="image fit main"><img src="images/Headshot_2020.jpg" alt="" /></span> 
 					<div class="content">
 						<div class="container">
 							<div class="row">
@@ -87,17 +108,25 @@
 						</div>
 					</div>
 					<a href="#two" class="goto-next scrolly">Next</a>
-				</section>
+				</section> -->
 
 			<!-- Two -->
 				<section id="two" class="spotlight style2 right">
-					<span class="image fit main"><img src="images/pic03.jpg" alt="" /></span>
+					<span class="image fit main"><img src="images/research_img.jpg" alt="" /></span>
 					<div class="content">
 						<header>
-							<h2>Interdum amet non magna accumsan</h2>
-							<p>Nunc commodo accumsan eget id nisi eu col volutpat magna</p>
+							<h2>Research</h2>
+							<p> I work on developing computational genomic methods.</p>
 						</header>
-						<p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>
+						<p>
+						   The drop in sequencing costs has led to an explosion of publicly available data. 
+						   With this rapid growth of public sequencing data, it has become more difficult for 
+						   researchers to utilize all the available information without incurring a large cost 
+						   due to processing time or memory usage. 
+						   My work looks to leverage the rapidly growing number of references 
+						   in public databases such as NCBI RefSeq by applying pan-genomic methods,
+						   and data-structures. 
+						</p>
 						<ul class="actions">
 							<li><a href="#" class="button">Learn More</a></li>
 						</ul>
@@ -107,13 +136,25 @@
 
 			<!-- Three -->
 				<section id="three" class="spotlight style3 left">
-					<span class="image fit main bottom"><img src="images/pic04.jpg" alt="" /></span>
+					<span class="image fit main bottom"><img src="images/interest_img.jpg" alt="" /></span>
 					<div class="content">
 						<header>
-							<h2>Interdum felis blandit praesent sed augue</h2>
-							<p>Accumsan integer ultricies aliquam vel massa sapien phasellus</p>
+							<h2>Interests</h2>
+							<p> Sports | Traveling | Cooking </p>
 						</header>
-						<p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>
+						<p> 
+							I am a big sports fan. I particularly enjoy watching soccer, but also
+							including football, tennis, and basketball. Additionally, I try to stay 
+							active by playing soccer and basketball. <br /> <br />
+							
+							Traveling is also a favorite activity of mine. I enjoy getting to see 
+							the different landscapes around the world and getting experience new foods. <br /> <br />
+							
+							Recently, I have started to really enjoy cooking and learning how prepare
+							foods from scratch. I was never really the best at cooking but with all the 
+							extra time at home recently, I have been trying to learn and have particularly
+							enjoyed it.
+						</p>
 						<ul class="actions">
 							<li><a href="#" class="button">Learn More</a></li>
 						</ul>
@@ -122,6 +163,7 @@
 				</section>
 
 			<!-- Four -->
+			<!--
 				<section id="four" class="wrapper style1 special fade-up">
 					<div class="container">
 						<header class="major">
@@ -168,9 +210,10 @@
 							</ul>
 						</footer>
 					</div>
-				</section>
+				</section> -->
 
 			<!-- Five -->
+			<!--
 				<section id="five" class="wrapper style2 special fade">
 					<div class="container">
 						<header>
@@ -184,17 +227,18 @@
 							</div>
 						</form>
 					</div>
-				</section>
+				</section> -->
 
 			<!-- Footer -->
 				<footer id="footer">
 					<ul class="icons">
 						<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<!-- <li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li> -->
 						<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
-						<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+						<!-- <li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li> -->
 						<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
 						<li><a href="#" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+						<p> oahmed6 [at] jhu [dot] edu</p>
 					</ul>
 					<ul class="copyright">
 						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
