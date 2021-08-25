@@ -3454,7 +3454,7 @@ input, select, textarea {
 	#banner {
 		background-attachment: fixed;
 		background-color: #272833;
-		background-image: url("../../images/banner_homepage_resized.jpg");
+		background-image: url("../../images/sequoia_park_resized.jpg");
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
@@ -3470,7 +3470,7 @@ input, select, textarea {
 			height: 100vh;
 			vertical-align: middle;
 			width: 1%;
-			background-image: url("../../images/banner_homepage_resized.jpg");
+			background-image: url("../../images/sequoia_park_resized.jpg");
 		}
 
 		#banner:after {
@@ -3482,7 +3482,7 @@ input, select, textarea {
 			*/
 			background-repeat: no-repeat;
 			background-size: cover;
-			background-image: url("../../images/banner_homepage_resized.jpg");
+			background-image: url("../../images/sequoia_park_resized.jpg");
 			content: '';
 			display: block;
 			height: 100%;
