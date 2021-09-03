@@ -8,6 +8,9 @@ venue: 'iScience'
 paperurl: ''
 citation: 'Ahmed, O., Rossi, M., Kovaka, S., Schatz, M. C., Gagie, T., Boucher, C., & Langmead, B. (2021). Pan-genomic Matching Statistics for Targeted Nanopore Sequencing. iScience, 102696.'
 ---
+
+***Paper Overview:***
+
 Nanopore sequencing is a long-read technology that allows users to perform targeted sequencing through software by monitoring the electrical output from channels, and making decisions in real-time if the nanopore should continue to sequence or eject the molecule out of the pore.
 
 Current methods such as UNCALLED and Readfish allows users to perform this type of targeted sequencing in practice. However, they are not optimized for large, repetitive references such as pan-genomic databases.

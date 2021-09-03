@@ -9,6 +9,8 @@ paperurl: ''
 citation: 'Wilks, C., Ahmed, O., Baker, D. N., Zhang, D., Collado-Torres, L., & Langmead, B. (2021). Megadepth: efficient coverage quantification for BigWigs and BAMs. Bioinformatics (Oxford, England), btab152. https://doi.org/10.1093/bioinformatics/btab152'
 ---
 
+***Paper Overview:***
+
 A key question that arises when obtaining sequencing data is trying to understand the data within key regions of the genome such as genes or regulatory elements. 
 
 Megadepth is an efficient tool that can quantify coverage from various input files such as BigWig, BAM and CRAM. Megadepth was shown to be faster and use less memory than the next best competitor. It was able to summarize coverage in GencodeV35 intervals for more than 19,000 GTEx BigWig files in about 1 hour using 32 threads. 
