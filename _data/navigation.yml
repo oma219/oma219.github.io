@@ -5,6 +5,9 @@ main:
 
   - title: "Publications"
     url: /publications/
+  
+  - title: "Mentorship & Service"
+    url: /mentor_service/
 
   - title: "Interests"
     url: /interests/    
