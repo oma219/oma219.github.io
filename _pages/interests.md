@@ -22,3 +22,14 @@ In terms of other sports, I am fan of Lebron James in the NBA and, Roger Federer
 <img src="http://oma219.github.io/images/epcot.jpg" alt="spaceship earth" style="float: right; height: 524px; width:453px; padding: 20px;"/>
 
 In terms of travel, I really enjoy going to theme parks like Disney and Universal when I have the chance. I particularly like the Epcot park in Walt Disney World where you get to experience a little flavor of many countries all in one place. Plus, they have great food in all of those parks!
+
+In addition, I enjoy traveling to other parts of the world when I have the opportunity. I have been fortunuate to be able to visit international destinations like Egypt (get to see family!), and Italy. And various cities in the US such as New York, Los Angeles, San Francisco, and Orlando.
+
+<br/>
+<br/>
+
+## Cooking
+
+<img src="http://oma219.github.io/images/homemade_pizza.jpg" alt="homemade pizza" style="float: left; height: 524px; width:453px; padding: 20px;"/>
+
+This is section is about cooking.
