@@ -8,8 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! My name is Omar Ahmed, and I am currently a PhD student at Johns Hopkins University in the Computer Science Department. My doctoral advisor is Dr. Ben Langmead, and my research interests include computational genomics, pangenomics, sequence analysis, and functional genomics. 
+Hello there! My name is Omar Ahmed, and I am currently a PhD student at Johns Hopkins University in the Computer Science Department. 
 
+Background
+======
+My family is from Egypt, and I grew up in the Lehigh Valley in Pennsylvania, USA. I did my bachelor's in Computer Science and Physics at Lehigh University in Bethlehem, PA. I continued on at Lehigh University to get Master's in Computer Science under the supervision of Dr. Brian Chen. Currently, I am working on my PhD at Johns Hopkins University under the supervision of Dr. Ben Langmead.
+
+Contact Me
+======
+Feel free to reach out to me if you would like to discuss any of my work. The easiest way to reach me is through my email: oahmed6 [at] jhu [dot] edu
 
 
 <!--- 
