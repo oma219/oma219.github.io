@@ -3,7 +3,7 @@ title: "Pan-genomic Matching Statistics for Targeted Nanopore Sequencing"
 collection: publications
 permalink: /publication/paper_2
 excerpt: 'This paper introduced a tool called SPUMONI which performs rapid, binary classification of reads with respect to a reference database. The tool is aimed toward the application of adaptive sequencing with Nanopore sequencers.'
-date: 2010-10-01
+date: 2021-06-07
 venue: 'iScience'
 paperurl: ''
 citation: 'Ahmed, O., Rossi, M., Kovaka, S., Schatz, M. C., Gagie, T., Boucher, C., & Langmead, B. (2021). Pan-genomic Matching Statistics for Targeted Nanopore Sequencing. iScience, 102696.'
