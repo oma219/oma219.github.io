@@ -12,7 +12,9 @@ Hello there! My name is Omar Ahmed, and I am currently a PhD student at Johns Ho
 
 Background
 ======
-I was born in Egypt, and I grew up in the Lehigh Valley in Pennsylvania, USA. I obtained my BA in *Computer Science* and *Physics* at Lehigh University in Bethlehem, PA. I continued on at Lehigh University to get my MS in *Computer Science* under the supervision of [Dr. Brian Chen](http://www.cse.lehigh.edu/~chen/index.htm). Currently, I am working on my PhD in *Computer Science* at Johns Hopkins University under the supervision of [Dr. Ben Langmead](https://langmead-lab.org/).
+I was born in Egypt, and I grew up in the Lehigh Valley in Pennsylvania, USA. I obtained my BA in Computer Science and Physics at Lehigh University in Bethlehem, PA. I continued on at Lehigh University to get my MS in Computer Science under the supervision of [Dr. Brian Chen](http://www.cse.lehigh.edu/~chen/index.htm). 
+
+Currently, I am working on my PhD in Computer Science at Johns Hopkins University under the supervision of [Dr. Ben Langmead](https://langmead-lab.org/).
 
 Contact Me
 ======
