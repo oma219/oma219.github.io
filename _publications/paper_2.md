@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 2"
+title: "Pan-genomic Matching Statistics for Targeted Nanopore Sequencing"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: /publication/paper_2
+excerpt: 'This paper introduced a tool called SPUMONI which performs rapid, binary classification of reads with respect to a reference database. The tool is aimed toward the application of adaptive sequencing with Nanopore sequencers.'
 date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 'iScience'
+paperurl: ''
+citation: 'Ahmed, O., Rossi, M., Kovaka, S., Schatz, M. C., Gagie, T., Boucher, C., & Langmead, B. (2021). Pan-genomic Matching Statistics for Targeted Nanopore Sequencing. iScience, 102696.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Nanopore sequencing is a long-read technology that allows users to perform targeted sequencing through software by monitoring the electrical output from channels, and making decisions in real-time if the nanopore should continue to sequence or eject the molecule out of the pore.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+Current methods such as UNCALLED and Readfish allows users to perform this type of targeted sequencing in practice. However, they are not optimized for large, repetitive references such as pan-genomic databases.
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+SPUMONI, which is developed in this paper, is a software tool that allows users to rapidly classify reads with respect to a large, repetitive database. Our experiments show that SPUMONI is faster and more memory efficient than minimap2 when indexing large, repetitive databases while achieving a comparable accuracy to minimap2.
+
+SPUMONI can be installed by following the instructions on the [GitHub Repo.](https://github.com/oma219/spumoni) [Check out the paper here!](http://oma219.github.io/files/spumoni.pdf)

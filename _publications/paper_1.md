@@ -13,9 +13,9 @@ A key question that arises when obtaining sequencing data is trying to understan
 
 Megadepth is an efficient tool that can quantify coverage from various input files such as BigWig, BAM and CRAM. Megadepth was shown to be faster and use less memory than the next best competitor. It was able to summarize coverage in GencodeV35 intervals for more than 19,000 GTEx BigWig files in about 1 hour using 32 threads. 
 
-The code can be installed by following the instructions at the [GitHub repo.](https://github.com/ChristopherWilks/megadepth). The R-package of megadepth is also available for [installation through Bioconductor.](https://bioconductor.org/packages/release/bioc/html/megadepth.html)
+The code can be installed by following the instructions at the [GitHub repo.](https://github.com/ChristopherWilks/megadepth) The R-package of megadepth is also available for [installation through Bioconductor.](https://bioconductor.org/packages/release/bioc/html/megadepth.html)
 
-[Check out the paper here!](http://oma219.github.io/files/megadepth.pdf)
+[Check out the paper here!](http://oma219.github.io/files/spumoni.pdf)
 
 
 
