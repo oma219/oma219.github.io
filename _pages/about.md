@@ -10,6 +10,8 @@ redirect_from:
 
 Hello there! My name is Omar Ahmed, and I am currently a PhD student at Johns Hopkins University in the Computer Science Department. 
 
+Here is my [CV](http://oma219.github.io/files/OmarAhmed_CV.pdf). *Last Updated:* September 2, 2021
+
 Background
 ======
 I was born in Egypt, and I grew up in the Lehigh Valley in Pennsylvania, USA. I obtained my BA in Computer Science and Physics at Lehigh University in Bethlehem, PA. I continued on at Lehigh University to get my MS in Computer Science under the supervision of [Dr. Brian Chen](http://www.cse.lehigh.edu/~chen/index.htm). 
