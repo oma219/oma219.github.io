@@ -17,4 +17,6 @@ Current methods such as UNCALLED and Readfish allows users to perform this type 
 
 SPUMONI, which is developed in this paper, is a software tool that allows users to rapidly classify reads with respect to a large, repetitive database. Our experiments show that SPUMONI is faster and more memory efficient than minimap2 when indexing large, repetitive databases while achieving a comparable accuracy to minimap2.
 
-SPUMONI can be installed by following the instructions on the [GitHub Repo.](https://github.com/oma219/spumoni) [Check out the paper here!](http://oma219.github.io/files/spumoni.pdf)
+SPUMONI can be installed by following the instructions on the [GitHub Repo.](https://github.com/oma219/spumoni) 
+
+[Check out the paper here!](http://oma219.github.io/files/spumoni.pdf)
