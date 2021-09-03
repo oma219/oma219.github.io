@@ -15,6 +15,7 @@ In addition, while being a TRAC Fellow, I helped to [push an initiative](https:/
 
 I mentored students in Organic Chemistry as a Peer Leader from August 2017 to May 2018. The responsibilites of a Peer Leader were to lead a small group of students during the recitation each week of the semester. Each week, students would have a packet of problems to work on, and I would assist them to understand the concepts covered in those problems.
 
+***
 
 # Service
 
