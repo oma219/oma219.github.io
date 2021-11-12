@@ -10,7 +10,7 @@ redirect_from:
 
 Hello there! My name is Omar Ahmed, and I am currently a PhD student at Johns Hopkins University in the Computer Science Department. 
 
-Here is my [CV](http://oma219.github.io/files/OmarAhmed_CV.pdf). *Last Updated:* September 2, 2021
+Here is my [CV](http://oma219.github.io/files/OmarAhmed_CV.pdf). *Last Updated:* November 12, 2021
 
 Background
 ======
